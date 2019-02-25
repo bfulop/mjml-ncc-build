@@ -1,6 +1,6 @@
 import mjml2html from 'mjml'
 
-export const createEmail = () => mjml2html(`
+export const mjml = () => mjml2html(`
   <mjml>
     <mj-body>
       <mj-section>

@@ -1,8 +1,8 @@
 {
-  "name": "mjml-bundle",
-  "version": "1.0.0",
-  "description": "mjml as a bundle for serverless deployment",
-  "main": "index.js",
+  "name": "mjml-ncc-bundle",
+  "version": "0.1.0",
+  "description": "mjml as a bundled by ncc",
+  "main": "dist/index.js",
   "author": "Balint Fulop <bfulop@mac.com> (http://abundancia.io/)",
   "license": "MIT",
   "private": false,
